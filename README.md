@@ -4,7 +4,8 @@ This repository is used to handle issues and publish the latest releases of the 
 
 # Get Started
 
-- Run **xrSDK.Editor.DialogEditor.App.exe**. It may be blocked by the Windows Defender, because the executable file is nog signed. But this warning can be safely bypassed.
+- Run **xrSDK.Editor.DialogEditor.App.exe**. 
+> It may be blocked by the Windows Defender, because the executable file is nog signed. But this warning can be safely bypassed.
 - Select **File** -> **Open Game directory**.
 - Select the root directory containing the `gamedata` folder.
 
