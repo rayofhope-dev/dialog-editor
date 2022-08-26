@@ -2,6 +2,18 @@
 
 This repository is used to handle issues and publish the latest releases of the editor.
 
+# Get Started
+
+- Run **xrSDK.Editor.DialogEditor.App.exe**. It may be blocked by the Windows Defender, because the executable file is nog signed. But this warning can be safely bypassed.
+- Select **File** -> **Open Game directory**.
+- Select the root directory containing the `gamedata` folder.
+
+Please, note:
+- The editor will try to use standard COP paths to dialogs and localization files. If the files are not found, you will be prompted to specify the paths to them manually;
+- The editor supports 2 localizations: `eng` and `ru`. You can switch between them in the settings.
+
+For more information, check out our [wiki](https://github.com/rayofhope-dev/dialog-editor/wiki)
+
 # Issues
 
 Feel free to create an issues for problems you encounter on [Issues](https://github.com/rayofhope-dev/dialog-editor/issues) page.
