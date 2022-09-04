@@ -2,6 +2,9 @@
 
 This repository is used to handle issues and publish the latest releases of the editor.
 
+# Download
+You can find all available versions of the application in the [Releases](https://github.com/rayofhope-dev/dialog-editor/releases) tab.
+
 # Get Started
 
 - Run **xrSDK.Editor.DialogEditor.App.exe**. 
@@ -18,9 +21,6 @@ For more information, check out our [wiki](https://github.com/rayofhope-dev/dial
 # Issues
 
 Feel free to create an issues for problems you encounter on [Issues](https://github.com/rayofhope-dev/dialog-editor/issues) page.
-
-# Download
-You can find all available versions of the application in the [Releases](https://github.com/rayofhope-dev/dialog-editor/releases) tab.
 
 # Authors
 Powered by Ray of Hope team.
