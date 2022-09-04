@@ -26,7 +26,7 @@ Feel free to create an issues for problems you encounter on [Issues](https://git
 Powered by Ray of Hope team.
 
  - Official [VK](https://vk.com/roh_online) page
- - Official [Discord](https://discordapp.com/invite/rffsfku)-server. Join discussions about editor in `#dialog-editor` channel
+ - Official [Discord](https://discordapp.com/invite/rffsfku)-server. Join discussions about editor in `#sdk-help` channel
  - Page on [Patreon](https://www.patreon.com/roh_online)
  - Our [site](https://roh-online.com/)
  - [Carreers](https://roh-online.com/join)
