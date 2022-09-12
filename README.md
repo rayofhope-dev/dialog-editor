@@ -5,7 +5,7 @@ This repository is used to handle issues and publish the latest releases of the 
 # Download
 You can find all available versions of the application in the [Releases](https://github.com/rayofhope-dev/dialog-editor/releases) tab.
 
-# Pre-requests
+# Pre-Requests
 
 - Unpacked `gamedata` folder;
 - .NET6 Runtime. It can be downloaded from: https://dotnet.microsoft.com/en-us/download/dotnet/6.0 (Choose `.NET Desktop Runtime`)
