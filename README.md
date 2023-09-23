@@ -13,7 +13,7 @@ You can find all available versions of the application in the [Releases](https:/
 # Get Started
 
 - Run **xrSDK.Editor.DialogEditor.App.exe**. 
-> It may be blocked by the Windows Defender, because the executable file is nog signed. But this warning can be safely bypassed.
+> It may be blocked by the Windows Defender, because the executable file is not signed. But this warning can be safely bypassed.
 - Select **File** -> **Open Game directory**.
 - Select the root directory containing the `gamedata` folder.
 
